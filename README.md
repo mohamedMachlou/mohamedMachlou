@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed MACHLOU</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
+### Start Other 
+
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
+### End Other 
+
 <!--  start header -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmachlou&show_icons=true&locale=en&layout=compact" alt="mohamedmachlou" /></p>
