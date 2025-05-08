@@ -48,16 +48,6 @@
 
 
 
-## :memo: Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [FrankenPHP](https://uniflow.io/blog/2025-04-07-frankenphp)
-- [Coder comme un DJ, mixer comme un dev](https://blog.darkwood.com/article/coder-comme-un-dj-mixer-comme-un-dev)
-- [Create a Lambda Interpreter in PHP](https://blog.darkwood.com/article/create-a-lambda-interpreter-in-php)
-- [Youtube timestamp looker](https://blog.darkwood.com/article/youtube-timestamp-looker)
-- [Attention is all you need](https://blog.darkwood.com/article/attention-is-all-you-need)
-<!-- BLOG-POST-LIST:END -->
-
 ## :link: Links
 
 <p align="center">
@@ -102,9 +92,9 @@
   <a href="https://www.chess.com/member/matyo91"><img src="https://img.icons8.com/color/96/knight.png" alt="chess"/></a>
 </p>
 
-Icons by [https://icons8.com](https://icons8.com)
+
 
 ## :wave: Mentions
 
-Many thanks from people that referenced this repository here.
+
 
