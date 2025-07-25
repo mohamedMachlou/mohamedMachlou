@@ -18,6 +18,7 @@
 <!--
 <p align="left"> <a href="https://instagram.com/machloumohamed" target="blank"><img src="https://img.shields.io/twitter/follow/machloumohamed?logo=twitter&style=for-the-badge" alt="machloumohamed" /></a> </p>
 -->
+<p align="left">
 - 🔭 I’m currently working on **Medicaly**
 
 - 🌱 I’m currently learning **Node Js, Angular 20, Angular NGRX**
