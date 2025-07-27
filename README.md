@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Node.js, Angular 20, NGRX**
 - 👨‍💻 All my projects are available on [my GitHub repositories](https://github.com/mohamedMachlou?tab=repositories)
 - 💬 Ask me anything about web development, coding, or tech advice. I’m here to help and share ideas!
-- 📫 Reach me at: **medmachlou@gmail.com**
+- 📫 Reach me at: **machloumed@gmail.com**
 
 ---
 
